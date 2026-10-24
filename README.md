@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Hasan Deniz Gökbulut 👋
 
-<!--
-**denizgokbulut75/denizgokbulut75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Internet and Network Technologies Student at Doğuş University
 
-Here are some ideas to get you started:
+I'm interested in software development, computer networks, and IT infrastructure. I enjoy learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Areas of Interest
+
+- Python Programming
+- Computer Networks and Network Administration
+- SQL and MySQL
+- Web Development
+- IT Support and System Administration
+
+## 📚 Currently Learning
+
+- Python and algorithm development
+- Network fundamentals
+- Windows Server and Active Directory
+- Database design and SQL
+
+## 🚀 Projects
+
+I'm working on practical projects to improve my programming and networking skills. My projects will be added here as they develop.
+
+## 🤝 Connect With Me
+
+- GitHub: [@denizgokbulut75](https://github.com/denizgokbulut75)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/deniz-gokbulut)
+
+---
+
+⭐ Thanks for visiting my profile!
